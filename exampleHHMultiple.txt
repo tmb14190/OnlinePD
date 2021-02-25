@@ -1,0 +1,124 @@
+Pokerstars Hand #197638875182: Hold'em No Limit ($1.00/$2.00) - 2020/05/30 20:08:15 WET [2020/05/30 15:08:15 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: e.sergeevna ($201.03 in chips)
+Seat 2: demonxz8 ($42.16 in chips)
+Seat 3: Holli23 ($140.60 in chips)
+Seat 4: Aitvariux ($422.92 in chips)
+Seat 5: ValeriaTEAMPRO ($240.66 in chips)
+Seat 6: USER ($200.00 in chips)
+demonxz8: posts small blind $1.00
+Holli23: posts big blind $2.00
+*** HOLE CARDS ***
+Dealt to USER [Ad Ks]
+Aitvariux: folds
+ValeriaTEAMPRO: folds
+USER: raises $3.00 to $5.00
+e.sergeevna: calls $5.00
+demonxz8: folds
+Holli23: folds
+*** FLOP *** [5d Ac Td]
+USER: bets $5.60
+e.sergeevna: calls $5.60
+*** TURN *** [5d Ac Td] [3d]
+USER: bets $14.00
+e.sergeevna: calls $14.00
+*** RIVER *** [5d Ac Td 3d] [7d]
+USER: checks
+e.sergeevna: checks
+*** SHOW DOWN ***
+USER: shows [Ad Ks] (a flush, Ace high)
+e.sergeevna: mucks hand
+USER collected $49.85 from pot
+*** SUMMARY ***
+Total pot $49.85 | Rake $2.35
+Board [5d Ac Td 3d 7d]
+Seat 1: e.sergeevna (button) mucked [Ah 3h]
+Seat 2: demonxz8 (small blind) folded before Flop
+Seat 3: Holli23 (big blind) folded before Flop
+Seat 4: Aitvariux folded before Flop (didn't bet)
+Seat 5: ValeriaTEAMPRO folded before Flop (didn't bet)
+Seat 6: USER showed [Ad Ks] and won ($49.85) with a flush, Ace high
+
+
+Pokerstars Hand #197638875183: Hold'em No Limit ($1.00/$2.00) - 2020/05/30 20:08:15 WET [2020/05/30 15:08:16 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: e.sergeevna ($201.03 in chips)
+Seat 2: demonxz8 ($42.16 in chips)
+Seat 3: Holli23 ($140.60 in chips)
+Seat 4: Aitvariux ($422.92 in chips)
+Seat 5: ValeriaTEAMPRO ($240.66 in chips)
+Seat 6: USER ($200.00 in chips)
+demonxz8: posts small blind $1.00
+Holli23: posts big blind $2.00
+*** HOLE CARDS ***
+Dealt to USER [Ad Ks]
+Aitvariux: folds
+ValeriaTEAMPRO: folds
+USER: raises $3.00 to $5.00
+e.sergeevna: calls $5.00
+demonxz8: folds
+Holli23: folds
+*** FLOP *** [5d Ac Td]
+USER: bets $5.60
+e.sergeevna: calls $5.60
+*** TURN *** [5d Ac Td] [3d]
+USER: bets $14.00
+e.sergeevna: calls $14.00
+*** RIVER *** [5d Ac Td 3d] [7d]
+USER: checks
+e.sergeevna: checks
+*** SHOW DOWN ***
+USER: shows [Ad Ks] (a flush, Ace high)
+e.sergeevna: mucks hand
+USER collected $49.85 from pot
+*** SUMMARY ***
+Total pot $49.85 | Rake $2.35
+Board [5d Ac Td 3d 7d]
+Seat 1: e.sergeevna (button) mucked [Ah 3h]
+Seat 2: demonxz8 (small blind) folded before Flop
+Seat 3: Holli23 (big blind) folded before Flop
+Seat 4: Aitvariux folded before Flop (didn't bet)
+Seat 5: ValeriaTEAMPRO folded before Flop (didn't bet)
+Seat 6: USER showed [Ad Ks] and won ($49.85) with a flush, Ace high
+
+
+Pokerstars Hand #197638875184: Hold'em No Limit ($1.00/$2.00) - 2020/05/30 20:08:15 WET [2020/05/30 15:08:17 ET]
+Table 'Donati' 6-max Seat #1 is the button
+Seat 1: e.sergeevna ($201.03 in chips)
+Seat 2: demonxz8 ($42.16 in chips)
+Seat 3: Holli23 ($140.60 in chips)
+Seat 4: Aitvariux ($422.92 in chips)
+Seat 5: ValeriaTEAMPRO ($240.66 in chips)
+Seat 6: USER ($200.00 in chips)
+demonxz8: posts small blind $1.00
+Holli23: posts big blind $2.00
+*** HOLE CARDS ***
+Dealt to USER [Ad Ks]
+Aitvariux: folds
+ValeriaTEAMPRO: folds
+USER: raises $3.00 to $5.00
+e.sergeevna: calls $5.00
+demonxz8: folds
+Holli23: folds
+*** FLOP *** [5d Ac Td]
+USER: bets $5.60
+e.sergeevna: calls $5.60
+*** TURN *** [5d Ac Td] [3d]
+USER: bets $14.00
+e.sergeevna: calls $14.00
+*** RIVER *** [5d Ac Td 3d] [7d]
+USER: checks
+e.sergeevna: checks
+*** SHOW DOWN ***
+USER: shows [Ad Ks] (a flush, Ace high)
+e.sergeevna: mucks hand
+USER collected $49.85 from pot
+*** SUMMARY ***
+Total pot $49.85 | Rake $2.35
+Board [5d Ac Td 3d 7d]
+Seat 1: e.sergeevna (button) mucked [Ah 3h]
+Seat 2: demonxz8 (small blind) folded before Flop
+Seat 3: Holli23 (big blind) folded before Flop
+Seat 4: Aitvariux folded before Flop (didn't bet)
+Seat 5: ValeriaTEAMPRO folded before Flop (didn't bet)
+Seat 6: USER showed [Ad Ks] and won ($49.85) with a flush, Ace high
